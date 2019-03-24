@@ -1,0 +1,7 @@
+site_name: Ligato-Site Doc
+nav:
+   - Home: index.md
+   - User Guide: vpp-agent.wiki/user-guide/User-Guide.md
+   - Development Guide: vpp-agent.wiki/development-guide/Development-Guide.md 
+
+theme: readthedocs
