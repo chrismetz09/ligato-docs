@@ -2,7 +2,7 @@ site_name: Ligato-Site Doc
 
 theme: readthedocs
 
-pages:
+nav:
     - Home: index.md
     - User Guide: user-guide/User-Guide.md
     - Development Guide: development-guide/Development-Guide.md 
