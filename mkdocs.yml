@@ -1,8 +1,11 @@
-site_name: Ligato-Site Doc
+site_name: Ligato Documentation
+repo_url: https://github.com/chrismetz09/ligato-docs
 
 theme: readthedocs
 
-pages:
-    - Home: index.md
+nav:
+    - About Ligato Documentation: index.md
+    - CNF: CNF/CNF-definition.md
+    - CN Infra: Infra/cn-toc-file.md 
     - VPP Agent: user-guide/User-Guide.md
-    - Development Guide: development-guide/Development-Guide.md 
+    - Tutorials: tutorials/
