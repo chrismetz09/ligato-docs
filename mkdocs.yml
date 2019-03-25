@@ -4,5 +4,5 @@ theme: readthedocs
 
 pages:
     - Home: index.md
-    - VPP Agent User Guide: user-guide/User-Guide.md
+    - VPP Agent: user-guide/User-Guide.md
     - Development Guide: development-guide/Development-Guide.md 
