@@ -8,4 +8,4 @@ pages:
     - CNF: CNF/CNF-definition.md
     - CN Infra: Infra/cn-toc-file.md 
     - VPP Agent: user-guide/User-Guide.md
-    - Tutorials: tutorials/
+    - Tutorials: tutorials/README.md
