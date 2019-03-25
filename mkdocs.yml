@@ -3,9 +3,9 @@ repo_url: https://github.com/chrismetz09/ligato-docs
 
 theme: readthedocs
 
-nav:
+pages:
     - About Ligato Documentation: index.md
-    - CNF: CNF/CNF-definition.md
-    - CN Infra: Infra/cn-toc-file.md 
-    - VPP Agent: user-guide/User-Guide.md
-    - Tutorials: tutorials/README.md
+    - CNF: 'CNF/CNF-definition.md'
+    - CN Infra: 'Infra/cn-toc-file.md' 
+    - VPP Agent: 'user-guide/User-Guide.md'
+    - Tutorials: 'tutorials/README.md'
