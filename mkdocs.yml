@@ -3,6 +3,8 @@ repo_url: https://github.com/chrismetz09/ligato-docs
 
 theme: readthedocs
 
+site_url: https://ligato-docs.readthedocs.io/en/latest/
+
 pages:
     - About Ligato Documentation: index.md
     - CNF: CNF/CNF-definition.md
