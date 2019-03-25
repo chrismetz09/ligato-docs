@@ -5,7 +5,7 @@ theme: readthedocs
 
 site_url: https://ligato-docs.readthedocs.io/en/latest/
 
-pages:
+nav:
     - About Ligato Documentation: index.md
     - CNF: CNF/CNF-definition.md
     - CN Infra: Infra/cn-toc-file.md 
